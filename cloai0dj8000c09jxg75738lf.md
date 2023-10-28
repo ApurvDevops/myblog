@@ -3,6 +3,7 @@ title: "Day 6 Task: File Permissions and Access Control Lists"
 datePublished: Sat Oct 28 2023 20:32:14 GMT+0000 (Coordinated Universal Time)
 cuid: cloai0dj8000c09jxg75738lf
 slug: day-6-task-file-permissions-and-access-control-lists
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1698525282663/34fc944a-399b-439f-ad98-0982e2c6167f.jpeg
 tags: linux, 90daysofdevops, shubhamlondhe, day6, tws
 
 ---
