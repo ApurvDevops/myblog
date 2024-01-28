@@ -3,6 +3,7 @@ title: "Day 17 Jenkins Part 2"
 datePublished: Sun Jan 28 2024 16:19:42 GMT+0000 (Coordinated Universal Time)
 cuid: clrxphz6m000208jw1wbg7toh
 slug: day-17-jenkins-part-2
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1706459161560/8211d159-4863-400d-8841-82918c2c6805.png
 tags: jenkins-devops, 90daysofdevops, day17, tws
 
 ---
